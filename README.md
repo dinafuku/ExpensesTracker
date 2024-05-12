@@ -1,7 +1,7 @@
 # CPSC357 Final Project: Expenses Tracker
 
 ## Overview
-This project aims to develop an expenses tracker app using a user-centered design approach. The primary users targeted are students who often struggle with managing their finances, frequently overspending without realizing. This app will help monitor their transactions and provide insights into their spending habits. For specification, I complete this project individually.
+This project aims to develop an expenses tracker app using a user-centered design approach. The primary users targeted are students who often struggle with managing their finances, frequently overspending without realizing. This app will help monitor their transactions and provide insights into their spending habits. For specification, I completed this project individually.
 
 ## How to Use
 - **Clone** this repository and open Xcode
